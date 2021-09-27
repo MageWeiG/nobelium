@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Somet1es',
+  title: 'Somebody have someplace recording something at sometimes',
+  author: 'Somet1mes',
   email: 'find_some@126.com',
   link: 'https://nmap.run',
-  description: 'This gonna be an awesome website.',
+  description: '一个懒狗记录一些想法的地方',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
