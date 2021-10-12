@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'Somebody have someplace recording something at sometimes',
-  author: 'Somet1mes',
-  email: 'find_some@126.com',
-  link: 'https://nmap.run',
-  description: '一个懒狗记录一些想法的地方',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  title: 'XiaoMing\'s daily',
+  author: 'MageWeiG',
+  email: 'mageweig@gamil.com',
+  link: 'https://magewei.xyz',
+  description: '小白菜小明的日常',
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
